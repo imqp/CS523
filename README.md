@@ -8,7 +8,7 @@
 |**Họ và tên**      |**MSSV**|**Email**             |
 |:------------------|:------:|:--------------------:|
 |Phan Thanh Quang   |21521350|21521350@gm.uit.edu.vn|
-|Nguyễn Minh Hiếu   |||
+|Nguyễn Minh Hiếu   |21520853|21520853@gm.uit.edu.vn|
 |Nguyễn Hoàng Nguyên|||
 ## **Chủ đề**
 - Cây phân đoạn (Segment Tree)
