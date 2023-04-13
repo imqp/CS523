@@ -1,0 +1,6 @@
+Bài tập: Cho mảng A = {23, 24, 45, 58, 46, 71, 3, 15, 55, 39} gồm 10 phần tử (mảng bắt đầu từ 0).
+-	Thực hiện thao tác tạo cây tính tổng cho mảng trên.(Vẽ cây kết quả)
+-	Cho biết tổng của đoạn [2,6].
+-	Thực hiện thao tác cập nhập giá trị x = 100 cho phần tử thứ 0.(Vẽ cây kết quả)
+-	Thực hiện thao tác cập nhập giá trị x = 5 cho phần tử thứ 5.(Vẽ cây kết quả)
+-	Cho biết tổng của đoạn [2,6] sau khi cập nhập giá trị.
