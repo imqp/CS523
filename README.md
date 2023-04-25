@@ -9,6 +9,6 @@
 |:------------------|:------:|:--------------------:|
 |Phan Thanh Quang   |21521350|21521350@gm.uit.edu.vn|
 |Nguyễn Minh Hiếu   |21520853|21520853@gm.uit.edu.vn|
-|Nguyễn Hoàng Nguyên|||
+|Nguyễn Hoàng Nguyên|21521203|21521203@gm.uit.edu.vn|
 ## **Chủ đề**
 - Cây phân đoạn (Segment Tree)
